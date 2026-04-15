@@ -1,0 +1,35 @@
+# Energy-Autarky-Model-DE — Python dependencies
+# Generated 2026-03-26 | Python 3.x
+
+# Core data & numerics
+pandas==3.0.1
+numpy==2.4.3
+scipy==1.17.1
+xarray==2026.2.0
+
+# Geospatial
+geopandas==1.1.3
+
+# Energy system modeling
+pypsa==1.1.2
+
+# Data sources
+requests==2.31.0
+entsoe-py==0.7.11
+pdfplumber==0.11.9
+openpyxl==3.1.5
+beautifulsoup4==4.14.3
+
+# Visualization
+plotly==6.6.0
+matplotlib==3.10.8
+seaborn==0.13.2
+kaleido==1.2.0
+
+# Jupyter
+jupyter==1.1.1
+nbconvert==7.17.0
+
+# Utilities
+python-dotenv==1.1.1
+tqdm==4.67.1
