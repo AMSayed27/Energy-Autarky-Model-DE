@@ -96,9 +96,9 @@ Energy-Autarky-Model-DE/
 │       └── fetch_all_data.py        # Pipeline orchestrator + validation output
 ├── notebooks/
 │   ├── 01_status_quo.ipynb          # Part 1: Status Quo Diagnostic
-│   ├── 02_state_optimization.ipynb  # Part 2: Per-state least-cost optimization
-│   ├── 03_zone_coordination.ipynb   # Part 3: 4-zone coordination model
-│   └── 04_national_system.ipynb     # Part 4: Full national + sector coupling
+│   ├── 02_state_optimization.ipynb  # Part 2: Per-state least-cost optimization (in progress)
+│   ├── 03_zone_coordination.ipynb   # Part 3: 4-zone coordination model  (planned)
+│   └── 04_national_system.ipynb     # Part 4: Full national + sector coupling (planned)
 ├── data/
 │   ├── raw/                         # API caches (JSON/CSV, per-year)
 │   └── processed/                   # Standardized DataFrames
